@@ -1,11 +1,11 @@
-![Tech](https://img.shields.io/badge/versiondockerfile:1.0.10-blue)
+![Tech](https://img.shields.io/badge/version-dockerfile :1.0.10-blue) 
 
 # docker-reactapp
 
 First of all, you need to bring up a React project with the following command:
 
 ```
-bash <npx create-next-app@latest
+bash :  npx create-next-app@latest
 ```
 
 
