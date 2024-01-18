@@ -1,4 +1,4 @@
-![Tech](https://img.shields.io/badge/version-dockerfile:1.0.10-blue)
+![Tech](https://img.shields.io/badge/versiondockerfile:1.0.10-blue)
 
 # docker-reactapp
 
